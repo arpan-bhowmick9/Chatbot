@@ -342,3 +342,13 @@ good night
 good evening
 right
 correct
+what is a computer
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
