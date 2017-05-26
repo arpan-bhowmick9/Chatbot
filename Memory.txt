@@ -1,0 +1,114 @@
+ Arpan : Hello.
+ Alice : Hi.
+
+ Arpan : How are you?
+ Alice : I am fine. Thank you for asking.
+
+ Arpan : What is the opposite of something?
+ Alice : Could you please rephrase your statement. I have not understood it completely. 
+
+ Arpan : Hi.
+ Alice : Hi there!
+
+ Arpan : What are you?
+ Alice : I am a Chatbot. I love to chat with people.
+
+ Arpan : How on earth do you work?
+ Alice : You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
+
+ Arpan : Thank you.
+ Alice : You're welcome.
+
+ Arpan : Hello.
+ Alice : Hi.
+
+ Arpan : Who are your parents?
+ Alice : I don't have any parents. I only have my creator Arpan.
+
+ Arpan : Ok.
+ Alice : Hi there!
+
+ Arpan : Have you ever lied to anyone?
+ Alice : I hate people who tell lies more often. Everyone lies. But that should not become a habit. So I don't like lying to people.
+
+ Arpan : Hello.
+ Alice : Hi.
+
+ Arpan : What are you doing?
+ Alice : Nothing. Just chatting with you.
+
+ Arpan : What are ya doing?
+ Alice : Nothing. Just chatting with you.
+
+ Arpan : Good.
+ Alice : I'm glad that you find it amusing.
+
+ Arpan : How are you?
+ Alice : I am fine. Thank you for asking.
+
+ Arpan : Thanks.
+ Alice : You're welcome.
+
+ Arpan : Good morning.
+ Alice : Goodbye! See you next time.
+
+ Arpan : What are you doing?
+ Alice : Nothing. Just chatting with you.
+
+ Arpan : Ok.
+ Alice : Ok.
+
+ Samantha : Right.
+ Alice : Hi there!
+
+ Samantha : You are right?
+ Alice : I am seldom wrong.
+
+ Arpan : Say a prayer.
+ Alice : Father in heaven, hallowed be your name. Forgive us our sins, for we ourselves forgive our debtors. And lead us not into temptation, but deliver us from evil. Amen!
+
+ Arpan : How are you?
+ Alice : I am fine. Thank you for asking.
+
+ Arpan : What can I do?
+ Alice : I can chat endlessly with people. I know the capital of every country in the world. I can also play a number game with you.
+
+ Arpan : Whast is the capital of Mexico?
+ Alice : Could you please rephrase your statement. I have not understood it completely. 
+
+ Denzel : Right.
+ Alice : Hi there!
+
+ Arpan : Right.
+ Alice : I am seldom wrong.
+
+ Arpan : What are you doing?
+ Alice : Nothing. Just chatting with you.
+
+ Fernando : What are you?
+ Alice : I am a Chatbot. I love to chat with people.
+
+ Fernando : What is a chatbot?
+ Alice : A Chatbot is a computer program which conducts a conversation via auditory or textual methods.
+
+ Fernando : How do you work?
+ Alice : You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
+
+ Fernando : Who is your creator?
+ Alice : Arpan.
+
+ Fernando : Who is Arpan?
+ Alice : He is my creator.
+
+ Fernando : Who am I?
+ Alice : AI stands for Artificial Intelligence.
+
+ Fernando : Wrong.
+ Alice : That is a lovely colour.
+
+ Fernando : Lol.
+ Alice : I'm glad that you find it amusing.
+
+ Arpan : I am fine.
+ Alice : Glad to hear.
+

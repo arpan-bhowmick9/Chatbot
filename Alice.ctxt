@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=original_question
+comment0.target=java.lang.String\ prepare(java.lang.String)
+comment1.params=user_question
+comment1.target=boolean\ country_question(java.lang.String)
+comment2.params=user_question
+comment2.target=boolean\ hello_question(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
