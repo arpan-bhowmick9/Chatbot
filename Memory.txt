@@ -112,3 +112,12 @@
  Arpan : I am fine.
  Alice : Glad to hear.
 
+ Arpan : Good evening.
+ Alice : Good Evening!
+
+ Arpan : Do something interesting.
+ Alice : Could you please rephrase your statement. I have not understood it completely. 
+
+ Arpan : Ok.
+ Alice : Ok.
+

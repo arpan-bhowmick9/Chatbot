@@ -91,6 +91,10 @@ class Alice extends First_Checking{
         return false;
     }
     public static void main(String args[])throws IOException, InterruptedException{
+        int chat_counter=0;
+        BufferedReader br1=new BufferedReader(new FileReader("Chat_Counter.txt"));
+        chat_counter=Integer.parseInt(br1.readLine());
+        br1.close();
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         System.out.println("\u000C");
         System.out.print(" Enter Your First Name : ");
@@ -103,6 +107,7 @@ class Alice extends First_Checking{
             System.out.print(" "+user_name+" : ");
             original_question=br.readLine();
             user_question=prepare(original_question);
+            chat_counter++;
             if(country_question(user_question)==true){
                 String capital_name=capital(user_question.substring(23));
                 if((capital_name.equals("INVALID")==true)){
@@ -147,5 +152,8 @@ class Alice extends First_Checking{
             if((second_response_found==false)&&(first_response_found==false)&&(original_question.equals("#exit#")==false&&(original_question.equals("#play number game#")==false))&&(country_question(user_question)==false)&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false))
                 no_match(user_question,original_question,user_name);
         }while(original_question.equals("#exit#")==false);
+        PrintWriter pw=new PrintWriter(new BufferedWriter(new FileWriter("Chat_Counter.txt")));
+        pw.println(Integer.toString(chat_counter));
+        pw.close();
     }
 }
