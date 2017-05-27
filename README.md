@@ -12,6 +12,7 @@ JAVA 8 (JDK and JRE)
 In the Terminal (Linux) or Command Prompt (Windows) type :
 
 javac Alice.java
+
 java Alice
 
 # Instructions
