@@ -352,3 +352,8 @@ six
 seven
 eight
 nine
+are you an alien
+what is your favourite colour
+can you sing
+what inspires you the most
+who inspires you the most

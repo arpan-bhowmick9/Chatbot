@@ -47,7 +47,6 @@ class Trainer
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         PrintWriter pw1=new PrintWriter(new BufferedWriter(new FileWriter("Question.txt",true)));
         PrintWriter pw2=new PrintWriter(new BufferedWriter(new FileWriter("Response.txt",true)));
-        PrintWriter pw3=new PrintWriter(new BufferedWriter(new FileWriter("Frequency.txt",true)));
         do
         {
             int flag=0;
@@ -89,7 +88,6 @@ class Trainer
                 System.out.println();
                 pw1.println(y);
                 pw2.println(z);
-                pw3.println(0);
             }
             System.out.println();
             System.out.println(" 1. Enter Another Question And Response. ");
@@ -101,6 +99,5 @@ class Trainer
         }while(choice==1);
         pw1.close();
         pw2.close();
-        pw3.close();
     }
 }
