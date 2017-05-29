@@ -49,28 +49,6 @@ class Trainer
         PrintWriter pw2=new PrintWriter(new BufferedWriter(new FileWriter("Response.txt",true)));
         do
         {
-            int flag=0;
-            System.out.println("\u000C");
-            System.out.println("                                                                                           Security Check");
-            System.out.println();
-            System.out.println(" Enter Password : ");
-            System.out.println();
-            x=br.readLine();
-            if(x.equals("1123581321")==false)
-            {
-                while((flag==0)||(flag!=1))
-                {
-                    System.out.println("\u000C");
-                    System.out.println(" Invalid Password! ");
-                    System.out.println();
-                    System.out.println(" Input 1 to enter again : ");
-                    System.out.println();
-                    flag=Integer.parseInt(br.readLine());
-                }
-            }
-        }while(x.equals("1123581321")==false);
-        do
-        {
             System.out.println("\u000C");
             System.out.println(" Enter Question Or Statement : ");
             System.out.println();

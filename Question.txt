@@ -357,3 +357,7 @@ what is your favourite colour
 can you sing
 what inspires you the most
 who inspires you the most
+do you like being a chatbot
+can you access the internet
+do you access the internet
+why can not you access the internet
