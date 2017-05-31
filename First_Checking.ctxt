@@ -1,4 +1,0 @@
-#BlueJ class context
-comment0.params=user_question\ original_question\ user_name
-comment0.target=void\ check1(java.lang.String,\ java.lang.String,\ java.lang.String)
-numComments=1

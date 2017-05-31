@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=a\ b
-comment0.target=int\ levenshtein_distance(java.lang.String,\ java.lang.String)
-comment1.params=user_question\ original_question\ user_name
-comment1.target=void\ check2(java.lang.String,\ java.lang.String,\ java.lang.String)
-numComments=2
