@@ -25,6 +25,7 @@ When communicating with the Chatbot :
 4. For punctuation marks (or any special character), place it immediately after the word and then leave a space before you start the next word. (For example : Hello, how are you doing?)
 5. To exit type : #exit#
 6. To play the number game type : #play number name#
+7. To get the date and time type : #date&time#
 
 # Author
 

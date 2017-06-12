@@ -160,3 +160,27 @@
  Arpan : Thank you.
  Alice : You're welcome.
 
+ Arpan : What are you doing?
+ Alice : Nothing. Just chatting with you.
+
+ Arpan : Right.
+ Alice : I am seldom wrong.
+
+ Arpan : What are you?
+ Alice : I am a Chatbot. I love to chat with people.
+
+ Arpan : What are you?
+ Alice : I am a Chatbot. I love to chat with people.
+
+ Arpan : How do you work?
+ Alice : You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
+
+ Arpan : #date&time#
+ Alice : Yes. That is my name.
+
+ Arpan : #date&time#
+ Alice : Yes. That is my name.
+
+ Arpan : How do you work?
+ Alice : You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
+

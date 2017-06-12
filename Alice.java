@@ -1,4 +1,6 @@
 import java.io.*;
+import java.util.*;
+import java.text.*;
 class Alice extends First_Checking{
     private static String prepare(String original_question){
         original_question=original_question.toLowerCase();
@@ -108,7 +110,15 @@ class Alice extends First_Checking{
             original_question=br.readLine();
             user_question=prepare(original_question);
             chat_counter++;
-            if(country_question(user_question)==true){
+            if(original_question.equals("#date&time#")==true){
+                Date date=new Date();
+                SimpleDateFormat ft=new SimpleDateFormat ("E dd/MM/yyyy 'at' hh:mm:ss a zzz");
+                System.out.println();
+                Thread.sleep(2500);
+                System.out.print(" Alice : "+ft.format(date));
+                System.out.println();
+            }
+            if((country_question(user_question)==true)&&(original_question.equals("#date&time#")==false)){
                 String capital_name=capital(user_question.substring(23));
                 if((capital_name.equals("INVALID")==true)){
                     System.out.println();
@@ -123,7 +133,7 @@ class Alice extends First_Checking{
                     System.out.println();
                 }
             }
-            if(user_question.equals("do you remember me")==true){
+            if((user_question.equals("do you remember me")==true)&&(original_question.equals("#date&time#")==false)){
                 if(memory(user_name)==true){
                     System.out.println();
                     Thread.sleep(2500);
@@ -137,19 +147,19 @@ class Alice extends First_Checking{
                     System.out.println();
                 }
             }
-            if((hello_question(user_question)==true)&&(user_question.equals("do you remember me")==false)){
+            if((hello_question(user_question)==true)&&(user_question.equals("do you remember me")==false)&&(original_question.equals("#date&time#")==false)){
                 System.out.println();
                 Thread.sleep(2500);
                 System.out.print(" Alice : Hello, "+user_name+".");
                 System.out.println();
             }
-            if(original_question.equals("#play number game#")==true&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false))
+            if(original_question.equals("#play number game#")==true&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false)&&(original_question.equals("#date&time#")==false))
                 game(user_name);
-            if((original_question.equals("#exit#")==false)&&(original_question.equals("#play number game#")==false)&&(country_question(user_question)==false)&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false))
+            if((original_question.equals("#exit#")==false)&&(original_question.equals("#play number game#")==false)&&(country_question(user_question)==false)&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false)&&(original_question.equals("#date&time#")==false))
                 check1(user_question,original_question,user_name);
-            if((first_response_found==false)&&(original_question.equals("#exit#")==false)&&(original_question.equals("#play number game#")==false)&&(country_question(user_question)==false)&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false))
+            if((first_response_found==false)&&(original_question.equals("#exit#")==false)&&(original_question.equals("#play number game#")==false)&&(country_question(user_question)==false)&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false)&&(original_question.equals("#date&time#")==false))
                 check2(user_question,original_question,user_name);
-            if((second_response_found==false)&&(first_response_found==false)&&(original_question.equals("#exit#")==false&&(original_question.equals("#play number game#")==false))&&(country_question(user_question)==false)&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false))
+            if((second_response_found==false)&&(first_response_found==false)&&(original_question.equals("#exit#")==false&&(original_question.equals("#play number game#")==false))&&(country_question(user_question)==false)&&(hello_question(user_question)==false)&&(user_question.equals("do you remember me")==false)&&(original_question.equals("#date&time#")==false))
                 no_match(user_question,original_question,user_name);
         }while(original_question.equals("#exit#")==false);
         PrintWriter pw=new PrintWriter(new BufferedWriter(new FileWriter("Chat_Counter.txt")));
