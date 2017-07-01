@@ -57,3 +57,5 @@ You first enter a statement which I analyze. Then I choose the most suitable res
 Yes. That is my name.
 Yes. That is my name.
 You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
+Nothing. Just chatting with you.
+I'm glad that you find it amusing.

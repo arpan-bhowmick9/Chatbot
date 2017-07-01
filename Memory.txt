@@ -184,3 +184,9 @@
  Arpan : How do you work?
  Alice : You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
 
+ Arpan : What are you doing?
+ Alice : Nothing. Just chatting with you.
+
+ Arpan : Good.
+ Alice : I'm glad that you find it amusing.
+
