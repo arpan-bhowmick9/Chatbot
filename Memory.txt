@@ -190,3 +190,12 @@
  Arpan : Good.
  Alice : I'm glad that you find it amusing.
 
+ Ayan : What is the time?
+ Alice : My name is Alice.
+
+ Ayan : Who is my father's mother?
+ Alice : I have no parents. I only have my creator Arpan.
+
+ Ayan : #time#
+ Alice : Yes. That is my name.
+
