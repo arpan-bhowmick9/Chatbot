@@ -199,3 +199,75 @@
  Ayan : #time#
  Alice : Yes. That is my name.
 
+ Diptangshu : Are you single?
+ Alice : No. It is impossible for me to show anger.
+
+ Diptangshu : Who is your favourite footballer?
+ Alice : Eden Hazard.
+
+ Diptangshu : How you doing
+ Alice : I am doing fine. Thank you for asking.
+
+ Diptangshu : whats your age
+ Alice : My name is Alice.
+
+ Diptangshu : what is your age
+ Alice : My name is Alice.
+
+ Diptangshu : who is your father
+ Alice : I have no parents. I only have my creator Arpan.
+
+ Diptangshu : who is your mother
+ Alice : I have no parents. I only have my creator Arpan.
+
+ Diptangshu : what is 522+566
+ Alice : AI stands for Artificial Intelligence.
+
+ Diptangshu : what is the time
+ Alice : My name is Alice.
+
+ Diptangshu : what is the date
+ Alice : My name is Alice.
+
+ Diptangshu : #date#
+ Alice : That is a lovely colour.
+
+ Diptangshu : date?
+ Alice : Goodbye! See you next time.
+
+ Diptangshu : time?
+ Alice : 5.
+
+ Diptangshu : Fuck Cossipore
+ Alice : Could you please rephrase your statement. I have not understood it completely. 
+
+ Diptangshu : Cossipore Fuck Off
+ Alice : Could you please rephrase your statement. I have not understood it completely. 
+
+ Diptangshu : you are very mean
+ Alice : No. I really am a Chatbot.
+
+ Diptangshu : you are very cute
+ Alice : I am seldom wrong.
+
+ Diptangshu : Play number game
+ Alice : My name is Alice.
+
+ Diptangshu : play number game
+ Alice : My name is Alice.
+
+ Diptangshu : #playnumbergame
+ Alice : No. Eyes are something which I lack.
+
+ Diptangshu : #playnumbergame#
+ Alice : No. Eyes are something which I lack.
+
+ Diptangshu : 2151515
+ Alice : Hi.
+
+ Diptangshu : 123codeshut
+ Alice : I am seldom incorrect.
+
+ Diptangshu : #123codeshut#
+ Alice : I am seldom incorrect.
+
