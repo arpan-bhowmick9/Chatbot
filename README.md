@@ -4,7 +4,7 @@ This is a simple chatbot which I had created in JAVA for a school project. You c
 
 ## Prerequisites
 
-JAVA 8 (JDK and JRE)
+JAVA 8 (JDK and JRE) must be installed.
 
 ## How To Run
 
