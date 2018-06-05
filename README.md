@@ -1,19 +1,19 @@
-# CHATBOT IN JAVA 8
-
-
+# CHATBOT
 
 This is a simple chatbot which I had created in JAVA for a school project. You can chat with it as long as you like. You can play a number game with it or ask it the capital of any country.
+
 # Prerequisites :
 
 JAVA 8 (JDK and JRE)
 
 # How To Run
 
-In the Terminal (Linux) or Command Prompt (Windows) type :
+In the Terminal go to the project directory and type :
 
+```
 javac Alice.java
-
 java Alice
+```
 
 # Instructions
 
